@@ -7,4 +7,4 @@
 >" Podrán cortar todas las flores, pero no podrán detener la primavera." - *Pablo Neruda*
 
 
-![yo](yo.jpg)
+![yo](Yo.jpg)
